@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Creamy Ditalini Pasta</title>
+  </head>
+<body>
+  <h1>Creamy Ditalini Pasta</h1>
+  <ol start="1" style="list-style-type:upper-roman">
+    <li><h2>Getting Started</li></h2>
+    <ul style="list-style-type:square">
+      <li>Heat up pan</li>
+      <li>Add butter (however much you'd like)</li>
+      <li>Add 1 tbsp of minced garlic</li>
+    </ul>
+    <li><h2>Cooking the Noodles</li></h2>
+      <ul style="list-style-type:square">
+        <li>Add 4 cups of chicken broth to the pan</li>
+        <li>Next add 1 cup of ditaline or penne pasta to the pan</li>
+        <li>Let it simmer with the lid on medium heat for 10-12 minutes</li>
+      </ul>
+  <li><h2>After the Patsa is Done</li></h2>
+<ul style="list-style-type:square">
+  <li>Strain chicken broth (keep a little) </li>
+  <li>Add 1 tbsp of melted butter to noodles</li>
+  <li>Add 1/4 cup of heavy whipping cream to noodles</li>
+  <li>Add 1/4 tbsp of salt</li>
+  <li>Add 1/4 tbsp of pepper</li>
+  <li>Add 1/2 cup of mozzerella cheese and let melt</li>
+</ul>
+<li><h2>After Mixing</li></h2>
+<ul style="list-style-type:square">
+  <li>Let sit for 3 minutes</li>
+  <li>Enjoy!</li>
+</ul>
+  </ol>
+</html>
