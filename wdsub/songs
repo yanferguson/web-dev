@@ -1,1 +1,13 @@
-
+<!DOCTYPE html/>
+<html>
+<head>
+  <title>Song.html</title>
+</head>
+  <body>
+    <h1>A song about web-dev</h1>
+    <p>This song is written by Natalie Ferguson and co-written by Iaryna Kurksa. This song demonstrates the lingo we've learned in web-dev with Mr. Stamp. The chorus demonstrates the norms of walking into the class on an average Friday. The classroom often smells like a putrid mix of yogurt, meat, and body odor which is very distracting. In this time off from school due to winter weather, we took it upon ourselves to create a song about web-dev (in hopes of extra credit). The song was compltely produced by Natalie. She used authentic keyboard chords, drums, and bass to create this song by hand. She also carefully  recorded the vocals in her closet (even though she was sick also thats why it sounds bad). We hope you, the listener, will gain something useful or even just understand what we go through each day. Thank you, the link is down below.   </p>
+    <a href= "https://www.youtube.com/shorts/bn0iDPxORj8" target=_blank>song.html ;)</a>
+    
+    <p>PLEASE READ: This is one of my first songs I've ever fully produced. I know it's not the best song you've heard but im a self taught producer, so im still learning. ALSO for the CSS and Javascript, i used chatgpt...idk what im doing.</p>
+  </body>
+</html>
