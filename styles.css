@@ -1,0 +1,27 @@
+/* uh comment here */
+body {
+  font-family: sans-serif;
+}
+p 
+
+p,h1,h2 {
+            color: teal;
+           
+}
+      a {
+        color:teal
+}
+      a:hover {
+        color:blue
+}
+      ul li {
+        font-style: normal
+}
+     .int-link, ol, ul, p {
+       font-weight: bolder
+}
+      #mail-link {
+        color:gray
+}
+
+ 
