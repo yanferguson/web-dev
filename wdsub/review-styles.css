@@ -1,0 +1,42 @@
+body {
+  margin:center;
+  font-size: 14px;
+  font-family: "Embedded Code", sans-serif;
+  background-color: #003775;
+  color:#E6F1FF
+}
+
+h1, h2{
+  font-family: "Rubik Dirt", sans-serif;
+}
+
+div.card {
+  background-color: #0062D1;
+  margin-left: 75px;
+  margin-right:75px;
+  padding: 10px 10px 10px;
+  border-radius:15px;
+  border: solid 4px #000C1A;
+}
+hr{
+  margin-left:75px;
+  margin-right:75px;
+  border-color: #000C1A;
+}
+
+a{
+  text-decoration:none;
+  color:#E6F1FF;
+  font-weight:bolder;
+}
+
+
+a:hover{
+  color:#003775;
+}
+#footer{
+  text-align:center;
+  font-family: "Rubik Dirt", sans-serif;
+  color:#000C1A;
+  text-decorations:none;
+}
