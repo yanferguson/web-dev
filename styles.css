@@ -12,20 +12,20 @@ body {
 p 
 
 p,h1,h2 {
-            color: teal;
+            color: white;
            
 }
       a {
-        color:teal
+        color:white;
 }
       a:hover {
-        color:blue
+        color:blue;
 }
       ul li {
-        font-style: normal
+        font-style: normal;
 }
      .int-link, ol, ul, p {
-       font-weight: bolder
+       font-weight: bolder;
 }
       #mail-link {
         color:gray
