@@ -1,0 +1,204 @@
+body{
+  margin: 0px;
+  font-family:"sans-serif";
+}
+
+h1 {
+  width: 50%;
+  text-align: center;
+  margin: 10px auto; 
+  color:white;
+}
+
+.nav-div {
+  flex-grow: 1;
+  text-align:center;  
+  border: 1px solid black;
+  border-radius:6px;
+  position: relative;
+  top:0px;
+}
+
+.nav-div ul {
+  list-style-type:none;
+  padding-left: 0px;
+  margin: 0px;
+  position: absolute;
+  display: none;
+  text-align: center;
+}
+
+.nav-div:hover ul {
+  display:block;
+  
+}
+
+#nav-menu {
+  display: flex;
+  flex: 1 1 auto;
+  justify-content: space-evenly;
+  position: sticky;
+  top: 0px;
+  background-color: white;
+  
+  
+}
+
+.nav-div a {
+  display: inline-block;
+  width:100%;
+  background-color:rgba (255, 255, 255, 0.8); 
+
+}
+
+.nav-div:hover a {
+  color:black;
+  background-color:white;
+
+ 
+}
+
+.nav-div:hover {
+  background-color: white;
+  font-weight:bold;
+}
+
+a {
+  color: inherit;
+  text-decoration:none;
+  
+}
+
+.nav-div:hover ul{
+  display: block;
+  position: absolute;
+}
+
+.nav-div ul a:hover {
+  background-color: lightgrey;
+}
+
+#content {
+  margin: 0px 15%;
+  background-color: rgba(210, 210,210,0.7);
+  padding: 5px 15px 5px;
+}
+
+#bg-img {
+  position:fixed;
+  top:0px;
+  left:0px;
+  z-index:-1;
+  width: 100vw;
+  height:100vh;
+}
+
+#footer {
+  color:white;
+  background-color: black;
+  display: flex;
+  flex: 1 1 auto;
+  justify-content: space-evenly;
+  
+  
+}
+
+#addy{
+  flex-grow: 1;
+  text-align:right;
+  margin: 0px 5%;
+  
+}
+
+#publish-info{
+ flex-grow: 1;
+ text-align:left;
+  margin:0px 5%;
+}
+
+#header {
+  
+}
+.pic {
+  width:2px;
+  height:2px;
+  broder: solid white;
+}
+.header {
+  color:white;
+  text-align:center;
+  text-border: solid black;
+  font-size: 35px;
+}
+.guitar img {
+  width:20vw;
+  margin:5px;
+  float:right;
+  align:center;
+}
+
+.guitar {
+  width:25vw;
+  margin:10px;
+  float:right;
+  border: solid 4px black;
+}
+
+.lp img {
+  width:20vw;
+  margin:5px;
+  float:left;
+  align:center;
+}
+.lp {
+  width:25vw;
+  margin:10px;
+  float:left;
+  border: solid 4px black;
+}
+
+.trad img{
+  width:20vw;
+  margin:5px;
+  float:left;
+  align:center;
+}
+
+.trad{
+   width:25vw;
+  margin:10px;
+  float:left;
+  border: solid 4px black;
+}
+
+.squire img{
+  width:30vw;
+  margin:5px;
+  float:right;
+  align:center;  
+}
+
+.squire {
+   width:35vw;
+  margin:10px;
+  float:right;
+  border: solid 4px black;
+}
+
+.yama img{
+  width:20vw;
+  margin:5px;
+  float:right;
+  align:center;
+}
+
+.yama{
+   width:35vw;
+  margin:10px;
+  float:right;
+  border: solid 4px black;
+}
+
+#line {
+  
+}
