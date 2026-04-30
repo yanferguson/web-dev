@@ -20,7 +20,7 @@ darkModeTgl.addEventListener("click",() => mngMode());
     
   if (isLight) darkModeTgl.style.color="black",
     onOffStatus.style.color="white";
- else darkModeTgl.style.color="white",
+ else darkModeTgl.style.color="black",
    onOffStatus.style.color="black";
 
     //change text to "darkmode on" if light mode, else "dark mode"
