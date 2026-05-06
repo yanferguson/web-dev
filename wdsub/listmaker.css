@@ -1,0 +1,45 @@
+li {
+  list-style-type:none;
+}
+
+button li{
+  background-color: rgba(0,0,0,0);
+  
+}
+
+body {
+background-color: rgb(130 130 200);
+color: white;
+ padding: 15px;
+ border-radius:15px;
+ text-align:center;
+ font-size: 2rem;
+ position: absolute;
+ top:20%;
+ left:20%;
+ right:20%;
+ bottom:20%;
+ font-family: 'Permanent Marker';
+}
+
+li button {
+  background-color:rgba(0,0,0,0);
+  border:none;
+}
+#bg-img {
+  position:fixed;
+  top:0px;
+  left:0px;
+  z-index:-1;
+  width: 100vw;
+  height:100vh;
+}
+.permanent-marker-regular {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
