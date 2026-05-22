@@ -1,0 +1,40 @@
+body {
+  margin:0px;
+}
+.ttt-row {
+  display: flex;
+  flex: 1 1 auto;
+  justify-content: space-evenly;
+  min-width: 400px;
+  margin: 0px auto;
+}
+.ttt-square {
+  border: solid black 3px;
+  min-height: 100px;
+  width:30%;
+  flex-grow:1;
+  
+  
+}
+
+#game-over {
+  background-color: blue;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top:0px;
+  left:0px;
+  right: 0px;
+  bottom:0px;
+  display:none;
+}
+
+#game-over div {
+  background-color: white;
+  width: 40%;
+  border-radius: 10px;
+  text-align: center;
+  padding: 30px;
+  margin: 200px auto;
+  font-size: 2rem;
+}
