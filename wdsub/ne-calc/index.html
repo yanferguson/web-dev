@@ -1,0 +1,29 @@
+  <!DOCTYPEhtml>
+  <html>
+  <head>
+    <title>Nash Equilibrium Calculator</title>
+  </head>
+  <body>
+    <div id="header"><h1>Nash Equilibria Calculator</h1></div>
+  <p>This app takes a 2 player game and computes the pure-strategy Nash Equilibriausing Iterated Elimination of Dominated Strategies. </p>
+  
+  <div id="input-grp">
+  <label> Number of pure strats for P1:</label><input is="p1-strats" type=number min="1" max="8" value="2">
+  <br>
+  <label> Number of pure strats for P2:</label><input id="p2-strats" type=number min="1" max="8" value="2">
+  <br>
+    <button onclick="eneterMatrix()">go</button>
+  </div>
+  
+  <script>
+  function eneterMatrix(){
+    //get input values to pass to the next page
+    let p1NumStrats = document.getElementById("p1-strats").value;
+    let p2NumStrats = document.getElementById("p2-strats").value;
+    
+    //send user to the matrix page
+  navigation.navigate("matrix.html?p1NumStrats=" + p1NumStrats + "&p2NumStrats=" + p2NumStrats);
+  }
+  </script>
+  </body>
+  </html>
