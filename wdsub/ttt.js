@@ -114,6 +114,5 @@ function resetGame() {
   }
 
   currentPlayer = "X";
-
   gameOverDiv.style.display = "none";
 }
